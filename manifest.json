@@ -1,0 +1,16 @@
+{
+    "manifest_version" : 2,
+    "name" : "showTime",
+    "description" : "Extension to show time",
+    "version" : "1.2",
+    "browser_action" : {
+        "default_title" : "showTime",
+        "default_icon" : "icon.png",
+        "default_popup" : "popup.html"
+    },
+    "icons" : {
+        "16" : "icon16.png",
+        "48" : "icon48.png",
+        "128" : "icon128.png"
+    }
+}
